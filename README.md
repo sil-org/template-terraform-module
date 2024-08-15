@@ -1,5 +1,7 @@
 # Terraform module for ...
 
+TODO: First https://developer.hashicorp.com/terraform/registry/modules/publish if you have never developed a publishable Terraform module. Then follow those requirements when creating your new module.
+
 This module ... 
 
 TODO: Change the path in this link:
