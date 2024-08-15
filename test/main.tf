@@ -7,7 +7,7 @@
  * enforce the presence of module outputs.
  */
 
-module "simple" {
+module "minimal" {
   source = "../"
 
   variable_name = "foo"
@@ -20,7 +20,7 @@ module "full" {
 }
 
 output "an_output" {
-  value = module.basic.output_name
+  value = module.minimal.output_name
 }
 
 provider "aws" {
