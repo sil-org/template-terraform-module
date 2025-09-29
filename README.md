@@ -29,5 +29,4 @@ provider "aws" {
 
 TODO: Update or remove this section:
 
-A working [example](https://github.com/silinternational/terraform-module-name/tree/main/example) usage of this module is included in the source repository.
-
+A working [example](https://github.com/sil-org/terraform-module-name/tree/main/example) usage of this module is included in the source repository.
