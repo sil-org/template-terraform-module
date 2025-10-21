@@ -6,7 +6,7 @@ This module ...
 
 TODO: Change the path in this link:
 
-This module is published in [Terraform Registry](https://registry.terraform.io/modules/silinternational/module-name/provider-name/latest).
+This module is published in [Terraform Registry](https://registry.terraform.io/modules/sil-org/module-name/provider-name/latest).
 
 ## Usage Example
 
@@ -14,7 +14,7 @@ TODO: Update the following as a simple, brief representative sample of the modul
 
 ```hcl
 module "this" {
-  source = "silinternational/module-name/aws"
+  source = "sil-org/module-name/aws"
   version = "0.1.0"
   
   variable_name = "my variable value"
